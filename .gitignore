@@ -1,0 +1,7 @@
+# Never commit unlocked roll data or the password
+*_Electoral_Dashboard.html
+*.xlsx
+*.xls
+*.csv
+*password*
+*.pkl
